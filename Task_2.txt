@@ -1,0 +1,1 @@
+I choose hexapod task because I find it kind of interesting. It is like a spider which can move through any place and through this I got to learn inverse kinematics and implement it in python.
