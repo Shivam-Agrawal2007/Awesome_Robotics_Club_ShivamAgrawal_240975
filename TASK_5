@@ -1,6 +1,0 @@
-# alpha = math.degrees(math.atan2(y, x))
-    This computes the rotation around the vertical axis.
-    It's simply the angle from the center to the point (x, y) on the ground.
-
-# horizontal_distance = math.hypot(x, y) - L1
-    
